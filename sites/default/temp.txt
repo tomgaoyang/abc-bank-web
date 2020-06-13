@@ -1,0 +1,20 @@
+	sites/default/files/css/css_AueSTbF82Y54zDet24QSPDbFTd2FPG57hcWaqyEV04o.css
+	sites/default/files/css/css_AueSTbF82Y54zDet24QSPDbFTd2FPG57hcWaqyEV04o.css.gz
+	sites/default/files/css/css_o4mNTu8S9ihr_9WUGTJrwTmbrzaN4SlGr_jSQaU7OZY.css
+	sites/default/files/css/css_o4mNTu8S9ihr_9WUGTJrwTmbrzaN4SlGr_jSQaU7OZY.css.gz
+	sites/default/files/js/js_ANagEDGfpklLq5p3A67D0CkKHpq2F34F3O45CAXYVkY.js
+	sites/default/files/js/js_ANagEDGfpklLq5p3A67D0CkKHpq2F34F3O45CAXYVkY.js.gz
+	sites/default/files/js/js_B4A6s_YrKYPF5_i2QmujE9-uYMbp0DtGFRJXRAAhndA.js
+	sites/default/files/js/js_B4A6s_YrKYPF5_i2QmujE9-uYMbp0DtGFRJXRAAhndA.js.gz
+	sites/default/files/js/js_M_zPbJjHl4wK_lJvzjYxTZw5EPQavFq8OcTOuxfmFc4.js
+	sites/default/files/js/js_M_zPbJjHl4wK_lJvzjYxTZw5EPQavFq8OcTOuxfmFc4.js.gz
+	sites/default/files/js/js_RxZVAGRNiWxG2WKbSNrib03Zw7QXssbveqkUb2MSelM.js
+	sites/default/files/js/js_RxZVAGRNiWxG2WKbSNrib03Zw7QXssbveqkUb2MSelM.js.gz
+	sites/default/files/js/js_SpRSahBS-O7O6yq61qeFCe6ZCYh4MaBtsdFprnXlMpE.js
+	sites/default/files/js/js_SpRSahBS-O7O6yq61qeFCe6ZCYh4MaBtsdFprnXlMpE.js.gz
+	sites/default/files/js/js_TERRpqgshE224BXtyZ9RQjn131dL2a-GBF4z6x_eD_U.js
+	sites/default/files/js/js_TERRpqgshE224BXtyZ9RQjn131dL2a-GBF4z6x_eD_U.js.gz
+	sites/default/files/js/js_jd3Xi7ZcqjiDEQw2m2oR-mO7vT15QxXLdznP6KEAtdQ.js
+	sites/default/files/js/js_jd3Xi7ZcqjiDEQw2m2oR-mO7vT15QxXLdznP6KEAtdQ.js.gz
+	sites/default/files/languages/zh-hans_7wmh4QE0XB_wSpCilwyuutL8aRcopOuCMf-MGvzRwkU.js
+
